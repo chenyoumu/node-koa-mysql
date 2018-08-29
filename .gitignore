@@ -1,0 +1,10 @@
+node_modules/
+.tags
+.tags1
+.git
+dist/
+.DS_Store
+*.tags
+npm-debug.log
+.vscode/
+.history/
